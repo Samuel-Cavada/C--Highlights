@@ -8,9 +8,9 @@
 # C ++ Highlights
 
 
-<!--
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Samuel-Cavada/C--Highlights/main/images/C%2B%2B.png" alt="C++ Highlights" width="600">
+</p>
 
-## 🎮 Play My C++ Game Online
+> This section showcases programming experience using C++ for systems-level development or cybersecurity scripting.
 
-[![Play on Replit](https://img.shields.io/badge/Play%20on-Replit-blue?style=for-the-badge&logo=replit)](https://replit.com/@YourUsername/YourCppGame)
--->
